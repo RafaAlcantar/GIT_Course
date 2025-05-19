@@ -1,0 +1,57 @@
+┌─────────────────────────────────────────────────────┬────────────────────────────────────────────────────────────────────────────┐
+│ 🛠️  Comando Git                                     │ 📄 Descripción                                                              │
+├─────────────────────────────────────────────────────┼────────────────────────────────────────────────────────────────────────────┤
+│ git init                                            │ 🚀 Inicializa un nuevo repositorio Git local                               │
+│ git clone <url>                                     │ 📥 Clona un repositorio remoto a tu máquina local                          │
+│ git status                                          │ 📋 Muestra el estado de los archivos (cambios, staging, etc.)              │
+│ git add <archivo>                                   │ ➕ Agrega archivos al área de staging                                      │
+│ git add .                                           │ ➕ Agrega **todos** los archivos al staging                                │
+│ git commit -m "mensaje"                             │ 💾 Crea un commit con un mensaje                                           │
+│ git log                                             │ 🕓 Muestra el historial de commits                                         │
+│ git log --oneline                                   │ 🧾 Historial de commits en una sola línea                                  │
+│ git log --graph                                     │ 🌐 Muestra un gráfico del historial de commits                             │
+│ git log --author="Nombre"                           │ 🕵️  Filtra el historial por autor                                          │
+│ git log --after="2025-01-01"                        │ 📅 Muestra commits después de una fecha                                    │
+│ git log --grep="palabra clave"                      │ 🔍 Busca commits con palabra clave                                         │
+│ git diff                                            │ 🔍 Muestra diferencias no preparadas para commit                           │
+│ git diff --staged                                   │ 🔍 Muestra diferencias preparadas para commit                              │
+│ git branch                                          │ 🌿 Lista ramas disponibles                                                 │
+│ git branch <nombre>                                 │ 🌱 Crea una nueva rama                                                      │
+│ git checkout <rama>                                 │ 🔄 Cambia a otra rama                                                       │
+│ git checkout -b <rama>                              │ 🌱 Crea y cambia a una nueva rama                                           │
+│ git merge <rama>                                    │ 🔀 Fusiona otra rama con la actual                                          │
+│ git fetch                                           │ 🔄 Descarga ramas y datos de un remoto sin fusionar                        │
+│ git fetch <alias>                                   │ 🔄 Igual que arriba, usando alias                                          │
+│ git pull                                            │ ⬇️  Descarga y fusiona cambios del repositorio remoto                      │
+│ git pull <alias> <rama>                             │ ⬇️  Descarga y fusiona una rama específica desde remoto                    │
+│ git push                                            │ ⬆️  Envía tus commits al repositorio remoto                               │
+│ git push <alias> <rama>                             │ 🚀 Envía a una rama específica del remoto                                   │
+│ git remote -v                                       │ 🌐 Muestra los remotos configurados                                         │
+│ git remote add origin <url>                         │ 🌐 Añade un repositorio remoto llamado 'origin'                            │
+│ git remote add <alias> <url>                        │ 🔗 Agrega un alias para un remoto                                           │
+│ git config --global user.name "Tu Nombre"           │ 🙋 Configura tu nombre globalmente                                          │
+│ git config --global user.email "tu@correo.com"      │ 📧 Configura tu correo electrónico globalmente                              │
+│ git config --global color.ui auto                   │ 🎨 Activa coloración en terminal                                            │
+│ git reset --hard HEAD                               │ 🧹 Revierte todos los cambios no guardados                                  │
+│ git reset HEAD <archivo>                            │ 🔙 Quita archivo del staging area                                           │
+│ git revert <commit>                                 │ ⏪ Crea un commit que revierte otro                                         │
+│ git stash                                           │ 📦 Guarda temporalmente cambios sin commitear                              │
+│ git stash pop                                       │ 📤 Recupera y aplica los cambios guardados                                 │
+│ git stash list                                      │ 📋 Lista entradas en el stash                                               │
+│ git stash drop                                      │ 🗑️  Elimina la entrada más reciente del stash                              │
+│ git rm <archivo>                                    │ ❌ Elimina un archivo del área de trabajo y lo prepara para commit         │
+│ git mv <archivo_viejo> <archivo_nuevo>              │ 🔄 Mueve o renombra un archivo                                              │
+│ git tag <nombre>                                    │ 🏷️  Crea una etiqueta simple                                                │
+│ git tag -a v1.0 -m "Versión 1.0"                    │ 🏷️  Crea una etiqueta anotada con mensaje                                   │
+│ git tag                                             │ 🏷️  Lista todas las etiquetas                                               │
+│ git show <commit>                                   │ 🔎 Muestra detalles de un commit                                            │
+│ git blame <archivo>                                 │ 🕵️  Muestra quién cambió cada línea de un archivo                         │
+│ git clean -f                                        │ 🧹 Elimina archivos no rastreados                                           │
+└─────────────────────────────────────────────────────┴────────────────────────────────────────────────────────────────────────────┘
+
+│ git config --global user.name "Rafa Alcantar"             │ 🙋 Configura tu nombre globalmente                            │
+│ git config --global user.email "rafa.cia.aj.11@gmail.com" │ 📧 Configura tu email globalmente                             │
+│ git config --global init.defaultBranch main               │ 📧                                                            │
+│ git rm --cached test.txt
+
+
