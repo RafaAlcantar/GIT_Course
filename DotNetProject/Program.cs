@@ -8,7 +8,9 @@ Console.WriteLine("Calculadora aplicando los principios SOLID!");
 
 var calculator = new Calculator();
 
-double a = 10, b = 5;
+//double a = 10, b = 5;
+int a =  Convert.TryParseInt( Console.ReadLine("Ingresa el valor 1:"));
+int b =  Convert.TryParseInt( Console.ReadLine("Ingresa el valor 2:"));
 
 Console.WriteLine($"Valores para las operaciones: {a}, {b}");
 
