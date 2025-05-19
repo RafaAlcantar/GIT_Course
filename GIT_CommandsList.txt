@@ -53,5 +53,4 @@
 │ git config --global user.email "rafa.cia.aj.11@gmail.com" │ 📧 Configura tu email globalmente                             │
 │ git config --global init.defaultBranch main               │ 📧                                                            │
 │ git rm --cached test.txt
-
-
+  git branch -D AddFiles_Branch
