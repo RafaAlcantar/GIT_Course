@@ -4,3 +4,5 @@ New modification on this file, just to see as works applyign chenges in web and 
 New modification now in local
 Modifications for testing feature Fetch
 Text line to check first using Fetch
+
+********************* Fetch **********************************
