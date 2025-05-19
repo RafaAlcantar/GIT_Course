@@ -3,7 +3,7 @@ name: "📘 Título del Documento"
 
 about: "Breve descripción de lo que trata este documento."
 
-title: [DOC] - Description to add new document
+title: "[DOC] - Description to add new document"
 
 labels: documentation
 
