@@ -1,9 +1,13 @@
-# 📘 Título del Documento
+---
+name: "📘 Título del Documento"
 
-> Breve descripción de lo que trata este documento.
+about: "Breve descripción de lo que trata este documento."
+
+title: [DOC] - Description to add new document
+
+labels: documentation
 
 ---
-
 ## 📌 Tabla de Contenido
 
 - [Resumen](#resumen)
