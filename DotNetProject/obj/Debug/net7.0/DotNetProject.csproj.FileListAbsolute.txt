@@ -1,0 +1,14 @@
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\bin\Debug\net7.0\DotNetProject.exe
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\bin\Debug\net7.0\DotNetProject.deps.json
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\bin\Debug\net7.0\DotNetProject.runtimeconfig.json
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\bin\Debug\net7.0\DotNetProject.dll
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\bin\Debug\net7.0\DotNetProject.pdb
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.AssemblyInfoInputs.cache
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.AssemblyInfo.cs
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.csproj.CoreCompileInputs.cache
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.dll
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\refint\DotNetProject.dll
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.pdb
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.genruntimeconfig.cache
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\ref\DotNetProject.dll

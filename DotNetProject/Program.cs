@@ -1,9 +1,9 @@
 ﻿using System;
-using CalculadoraSolid;
+using calculatorSolid;
 using CalculadoraSolid.Operations;
 
 // See https://aka.ms/new-console-template for more information
-Console.WriteLine("Calculadora aplicando los principios SOLID!");
+Console.WriteLine("calculator aplicando los principios SOLID!");
 
 
 var calculator = new Calculator();
