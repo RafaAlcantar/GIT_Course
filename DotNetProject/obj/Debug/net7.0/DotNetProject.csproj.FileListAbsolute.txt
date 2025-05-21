@@ -12,3 +12,4 @@ C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\refint\DotNetPro
 C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.pdb
 C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.genruntimeconfig.cache
 C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\ref\DotNetProject.dll
+C:\INFORMATION\GITHUB\GIT_Course\DotNetProject\obj\Debug\net7.0\DotNetProject.sourcelink.json
