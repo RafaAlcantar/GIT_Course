@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jFi44S9RcGc=",
+  "dgSpecHash": "42/W94to7nI=",
   "success": true,
-  "projectFilePath": "C:\\INFORMATION\\GITHUB\\GIT_Course\\DotNetProject\\DotNetProject.csproj",
+  "projectFilePath": "/workspaces/GIT_Course/DotNetProject/DotNetProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rafaa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\rafaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\rafaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\rafaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }
