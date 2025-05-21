@@ -38,6 +38,7 @@ Migrations/
 *_p.c
 *.dll
 *.exe
+*.pdb
 
 ## Publish output
 *.publish/
