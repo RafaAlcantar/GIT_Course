@@ -1,5 +1,5 @@
 ﻿using System;
-using calculatorSolid;
+using CalculadoraSolid;
 using CalculadoraSolid.Operations;
 
 // See https://aka.ms/new-console-template for more information
